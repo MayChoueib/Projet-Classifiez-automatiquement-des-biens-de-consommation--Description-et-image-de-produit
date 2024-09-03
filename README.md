@@ -13,7 +13,7 @@ Pour la partie NLP et afin d’extraire les features texte, il sera nécessaire 
 • Une approche de type word/sentence embedding avec BERT   
 • Une approche de type word/sentence embedding avec USE (Universal Sentence Encoder)   
 
-Pour la partie #computer vision# et afin d’extraire les features des images, il sera nécessaire de mettre en œuvre :   
+Pour la partie computer vision et afin d’extraire les features des images, il sera nécessaire de mettre en œuvre :   
 
 • Un algorithme de type SIFT / ORB / SURF      
 • Un algorithme de type CNN Transfer Learning.   
